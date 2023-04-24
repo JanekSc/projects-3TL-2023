@@ -23,3 +23,4 @@ This repository was created to hold data for educational purposes.
 | Filipová | Kalorimetrická rovnice |  [Projekt-JS1](https://ivushfff.github.io/Projekt-JS1/)|
 | Vebrová | Objem a obsah koule | [Projekt-JS-po-etn--p--klad](https://wrste13.github.io/Projekt-JS-po-etn--p--klad/) |
 | kvasnickova | Převody úhlů | [projekt_JS1](https://kvasnickova.github.io/projekt_JS1/) |
+| Schaffer |Obvod a obsah kruhu|[Nazev-JS-1](https://JanekSc.github.io/Nazev-JS-1/)|
